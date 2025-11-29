@@ -1,0 +1,8 @@
+INFORMAÇÕES DO SISTEMA
+=======================
+Data: Fri Nov 28 12:18:00 AM -03 2025
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+Cache L1: 192 KiB (4 instances)
+Cache L2: 5 MiB (4 instances)
+Cache L3: 8 MiB (1 instance)
+RAM: 15Gi
